@@ -1,0 +1,7 @@
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\bin\Debug\gitttttt.exe.config
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\bin\Debug\gitttttt.exe
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\bin\Debug\gitttttt.pdb
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\obj\Debug\gitttttt.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\obj\Debug\gitttttt.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\obj\Debug\gitttttt.exe
+C:\Users\Carlos\Desktop\GGGG\gitttttt\gitttttt\obj\Debug\gitttttt.pdb
